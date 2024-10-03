@@ -31,8 +31,8 @@ const Navbar = () => {
         <li>Book</li>
       </ul>
       <div className='hidden md:flex'>
-        <BiSearch className='mr-2' size={20} />
-        <BsPerson size={20} />
+        <BiSearch className='mr-2' size={25} />
+        <BsPerson size={25} />
       </div>
 
       {/* Hamburger */}
