@@ -19,8 +19,7 @@ const Head = () => {
           <p> Explore,</p> 
           <p> Experience</p> 
           </div>        
-        <h2 className='py-4 text-[#FFD8BF] text-md'>Travel Beyond Boundaries</h2>
-     
+        <h2 className='py-4 text-[#FFD8BF] text-md'>Travel Beyond Boundaries</h2>     
       </div>
     </div>
   );
